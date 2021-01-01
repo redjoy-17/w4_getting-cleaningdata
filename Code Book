@@ -1,0 +1,16 @@
+CODE BOOK
+
+This CODE BOOK needs to identify the meaning of the variables in the tidydata dataframe. 
+The variables considered are the following with their mean() and std() values:
+
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+where "t"" stays for the time values whereas the "f" corresponds to the fast Fourier transform (FFT).
